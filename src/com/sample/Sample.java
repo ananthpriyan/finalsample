@@ -12,6 +12,9 @@ public class Sample {
 		System.out.println("Hi Anand4");
 		System.out.println("Hi Anand5");
 		
+		
+		System.out.println("Hi Anand5");System.out.println("Hi Anand5");
+		
 
 	}
 
